@@ -4,7 +4,7 @@ When customers discontinue using a company's services or products, it's known as
 
 ---
 
-The questions that drived out the insights are:
+## The questions that drived out the insights are:
 
 * What percentage of customers have churned, stayed, or joined the service?
 * Which contract type is associated with the highest churn?
