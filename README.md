@@ -22,7 +22,6 @@ When customers discontinue using a company's services or products, it's known as
 - **100% Stacked Bar Chart**: Compares churn rates across contract types.
 - **Clustered Bar Chart**: Shows churn counts for different internet types.
 - **KPI Cards**: Highlights key metrics like total revenue lost and gained.
-- **Scatter Chart**: Plots monthly charges against churn to identify trends.
 
 ## Analysis Hightlights
 
