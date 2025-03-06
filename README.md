@@ -30,6 +30,26 @@ When customers discontinue using a company's services or products, it's known as
 - High monthly charges correlate with a higher likelihood of churn.
 - Total revenue lost due to churned customers is significant at **2.86M**, compared to revenue gained from new customers (**36K**).
 
+
+##Recommendations 
+
+-Encourage Longer-Term Contracts
+Offer discounts, incentives, or loyalty perks to customers who switch from Month-to-Month contracts to Annual or Two-Year plans.
+Provide better customer education on the benefits of long-term contracts (e.g., price stability, exclusive perks).
+Implement a grace period or flexibility in contracts to reduce fear of long-term commitment.
+Improve Fiber Optic Service Quality
+
+-Improve Fiber Optic Service Quality
+Since Fiber Optic customers have higher churn, investigate whether service reliability, pricing, or customer support is the issue.
+Conduct surveys or collect feedback to understand why they are leaving.
+Improve network performance and communicate enhancements to customers.
+Address High Monthly Charges
+
+-Address High Monthly Charges
+Introduce tiered pricing models or customized plans that cater to different budget levels.
+Offer discounts or bundled services (e.g., internet + TV + mobile) to lower perceived costs.
+Provide a loyalty rewards program that gives long-term customers financial incentives.
+
 ---
 
 Thank you for reviewing this project!
